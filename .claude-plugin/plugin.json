@@ -1,0 +1,13 @@
+{
+  "name": "virtual-team",
+  "description": "Virtual senior engineering team — project-adaptive expert personas for code review and development guidance",
+  "version": "3.0.0",
+  "author": {
+    "name": "Apoorve Verma",
+    "url": "https://github.com/Apoorve8055"
+  },
+  "homepage": "https://github.com/Apoorve8055/virtual-team",
+  "repository": "https://github.com/Apoorve8055/virtual-team",
+  "license": "MIT",
+  "keywords": ["code-review", "engineering", "personas", "development-guidance", "team"]
+}

@@ -1,0 +1,25 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "virtual-team",
+  "version": "1.6.0",
+  "description": "Virtual senior engineering team for Claude Code — 12 project-adaptive expert personas for code review and development guidance",
+  "owner": {
+    "name": "Apoorve Verma",
+    "url": "https://github.com/Apoorve8055"
+  },
+  "plugins": [
+    {
+      "name": "virtual-team",
+      "description": "Virtual senior engineering team — project-adaptive expert personas for code review and development guidance via /virtual-team:senior-brother (generalist mentor), /virtual-team:review, /virtual-team:frontend, /virtual-team:backend, /virtual-team:database, /virtual-team:architect, /virtual-team:qa, /virtual-team:devops, /virtual-team:security, /virtual-team:mobile, /virtual-team:data, and the /virtual-team:all orchestrator",
+      "version": "3.0.0",
+      "author": {
+        "name": "Apoorve Verma",
+        "url": "https://github.com/Apoorve8055"
+      },
+      "source": "./",
+      "category": "productivity",
+      "repository": "https://github.com/Apoorve8055/virtual-team",
+      "license": "MIT"
+    }
+  ]
+}
